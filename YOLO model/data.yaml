@@ -1,0 +1,12 @@
+train: C:\Users\dinyz\Dinesh Ram\Pycharm - Projects\Wildlife Animal Detection\YOLO model\Wildlife_monitoring-1\roboflow\train\images
+val: C:\Users\dinyz\Dinesh Ram\Pycharm - Projects\Wildlife Animal Detection\YOLO model\Wildlife_monitoring-1\roboflow\valid\images
+test: C:\Users\dinyz\Dinesh Ram\Pycharm - Projects\Wildlife Animal Detection\YOLO model\Wildlife_monitoring-1\roboflow\test\images
+nc: 2
+names: ['0', '1']
+
+roboflow:
+  workspace: wildanimalsmonitoring
+  project: wildlife_monitoring
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wildanimalsmonitoring/wildlife_monitoring/dataset/1
